@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a6cc019-5f3a-4d16-ba2e-dead6f83dd87" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/Experiment/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Experiment/.ipynb_checkpoints/MCQ-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/top_level.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Experiment/MCQ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/MCQ.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Requirments.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -48,6 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -68,6 +81,7 @@
       <updated>1715804779828</updated>
       <workItem from="1715804809704" duration="4391000" />
       <workItem from="1716050511861" duration="92000" />
+      <workItem from="1716050605154" duration="3888000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -101,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715808608910</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <option name="closed" value="true" />
+      <created>1716050793081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716050793081</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +141,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
