@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a6cc019-5f3a-4d16-ba2e-dead6f83dd87" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/Experiment/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiment/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Experiment/.ipynb_checkpoints/MCQ-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/requires.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mcqgenrator.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Experiment/MCQ.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Experiment/MCQ.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Requirments.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Requirments.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-    </list>
+    <list default="true" id="2a6cc019-5f3a-4d16-ba2e-dead6f83dd87" name="Changes" comment="updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +68,7 @@
       <updated>1715804779828</updated>
       <workItem from="1715804809704" duration="4391000" />
       <workItem from="1716050511861" duration="92000" />
-      <workItem from="1716050605154" duration="3888000" />
+      <workItem from="1716050605154" duration="4235000" />
     </task>
     <task id="LOCAL-00001" summary="Commit">
       <option name="closed" value="true" />
@@ -123,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716050793081</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated">
+      <option name="closed" value="true" />
+      <created>1716055947185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716055947185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
